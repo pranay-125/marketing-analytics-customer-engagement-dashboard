@@ -1,4 +1,4 @@
-<h1>📊 Marketing Analytics & Customer Engagement Analysis</h1>
+<h1>📊 Customer Engagement & Marketing Channel Performance Analysis</h1>
 
 <hr>
 
