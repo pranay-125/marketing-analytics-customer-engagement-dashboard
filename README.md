@@ -257,19 +257,23 @@ This model enables <b>multi-dimensional analysis across campaigns, audiences, an
 </ul>
 
 <p>
- <img width="1920" height="1080" alt="Screenshot 2026-04-02 150510" src="https://github.com/user-attachments/assets/63936c19-fa4b-442b-a961-b1549443f5f0" />
+ <img width="1920" height="1080" alt="Screenshot 2026-04-15 175710" src="https://github.com/user-attachments/assets/f1aba444-e5e7-45ab-8593-c70e34965b6a" />
+
  </p>
 
 <p>
-  <img width="1920" height="1080" alt="Screenshot 2026-04-02 150520" src="https://github.com/user-attachments/assets/7346d205-e410-4c76-8aa1-8d9ee530b099" />
+ <img width="1920" height="1080" alt="Screenshot 2026-04-15 175727" src="https://github.com/user-attachments/assets/879cd24a-5ef5-4c7d-a52f-23511ec3e301" />
+
 </p>
 
 <p>
-  <img width="1920" height="1080" alt="Screenshot 2026-04-02 150530" src="https://github.com/user-attachments/assets/d6716b13-2118-48aa-a196-09dc8450bcd1" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-15 175735" src="https://github.com/user-attachments/assets/84a1cdd3-13a7-470b-9242-239cd881de7c" />
+
 </p>
 
 <p>
-  <img width="1920" height="1080" alt="Screenshot 2026-04-02 150543" src="https://github.com/user-attachments/assets/ec05d7d2-0bbc-4090-85e2-438b2df3b3ea" />
+ <img width="1920" height="1080" alt="Screenshot 2026-04-15 175751" src="https://github.com/user-attachments/assets/58c05264-2ebb-40c9-a9a6-ece50a6fe8da" />
+
 </p>
 
 <hr>
