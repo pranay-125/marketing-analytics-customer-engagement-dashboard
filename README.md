@@ -113,7 +113,6 @@ Analyzed <b>38K+ customer interaction records</b> integrating multiple datasets:
 <li><b>Sentiment Analysis:</b> Applied VADER model to classify customer reviews</li>
 <li><b>Data Modeling:</b> Built relational model in Power BI</li>
 <li><b>Dashboarding:</b> Developed interactive dashboards</li>
-<li><b>Advanced Interaction:</b> Enabled drill-through for detailed analysis</li>
 </ol>
 
 <hr>
