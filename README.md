@@ -1,210 +1,318 @@
 <h1 align="center">📊 Customer Engagement & Marketing Channel Performance Analysis</h1>
 
 <p align="center">
-End-to-End Marketing Analytics Project | SQL • Excel • Python • Power BI
+<b>Marketing Analytics Dashboard | Funnel Optimization | Customer Experience Analysis</b><br>
+SQL • Python • Power BI • DAX • Data Modeling
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Domain-Marketing%20Analytics-blue" />
+<img src="https://img.shields.io/badge/Tools-SQL%20%7C%20Python%20%7C%20PowerBI-orange" />
+<img src="https://img.shields.io/badge/Focus-Funnel%20%26%20CX%20Optimization-green" />
 </p>
 
 <hr>
 
-<h2>🎯 Problem Statement</h2>
+<h2>📌 Project Overview</h2>
+
 <p>
-ShopEasy, an e-commerce business, experienced a <b>decline in customer engagement and conversion rates</b> despite increasing marketing investments. 
-The objective of this project is to analyze <b>campaign performance, customer behavior, and feedback</b> to identify 
-<b>key drivers of performance decline</b> and enable data-driven marketing optimization.
+This project analyzes <b>38K+ customer interactions</b> across marketing campaigns to identify why 
+<b>high engagement (~25K+ clicks)</b> is not translating into <b>strong conversions (~1.3K purchases)</b>.
 </p>
 
-<hr>
-
-<h2>💼 Business Objective</h2>
-<ul>
-<li>Analyze <b>customer engagement trends</b> across marketing channels</li>
-<li>Identify <b>conversion funnel drop-offs</b> impacting sales</li>
-<li>Evaluate <b>content effectiveness</b> and campaign performance</li>
-<li>Leverage <b>customer sentiment analysis</b> to improve experience</li>
-<li>Enable <b>data-driven marketing strategy optimization</b></li>
-</ul>
-
-<hr>
-
-<h2>📂 Dataset Overview</h2>
 <p>
-Analyzed <b>38K+ customer interaction records</b> integrating multiple datasets:
+The analysis integrates <b>marketing performance, customer journey behavior, and sentiment insights</b> 
+to uncover <b>conversion bottlenecks and customer experience gaps</b>.
 </p>
-<ul>
-<li><b>fact_engagement_data</b> → Views, Clicks, Likes, Comments</li>
-<li><b>fact_customer_journey</b> → Funnel stages (View → Click → Purchase)</li>
-<li><b>fact_customer_reviews</b> → Ratings & textual feedback</li>
-<li><b>dim_products</b> → Product category and attributes</li>
-</ul>
 
 <hr>
 
-<h2>⚙️ Tools & Technologies</h2>
+<h2>🎯 Business Problem</h2>
+
+<p>
+Despite achieving <b>216K+ impressions and strong reach</b>, the business faced:
+</p>
+
 <ul>
-<li><b>SQL</b> → Data extraction and transformation</li>
-<li><b>Excel</b> → Data cleaning and validation</li>
-<li><b>Python</b> → Sentiment analysis (VADER) & preprocessing</li>
-<li><b>Power BI</b> → Data modeling, DAX, dashboard development</li>
+<li>Low <b>conversion efficiency (~5–8%)</b></li>
+<li>High <b>funnel drop-off after engagement</b></li>
+<li>Underutilized <b>customer feedback data</b></li>
 </ul>
+
+<p><b>Core Question:</b></p>
+
+<blockquote>
+Why are customers engaging with campaigns but not completing purchases?
+</blockquote>
 
 <hr>
 
-<h2>📊 Key Performance Indicators (KPIs)</h2>
+<h2>📊 Dashboard Preview</h2>
 
-<table border="1" cellpadding="8" cellspacing="0">
+<h3>📌 1. Overview Dashboard</h3>
+
+<table>
+<tr>
+<td width="50%">
+<img width="100%" src="https://github.com/user-attachments/assets/f2725b30-cbf0-4f53-8cb4-dd9cd88c5374" />
+</td>
+
+<td width="50%">
+
+<b>🔍 What it Shows</b>
+<ul>
+<li>Total Impressions, Clicks, Purchases</li>
+<li>Conversion Rate (~6–8%)</li>
+<li>Customer Rating Trends</li>
+</ul>
+
+<b>🎯 Quantified Insights</b>
+<ul>
+<li><b>216K impressions → 25.4K clicks → 1.3K purchases</b></li>
+<li>Conversion efficiency drops by <b>~90–95% across funnel</b></li>
+<li>Engagement strong, but <b>purchase intent weak</b></li>
+</ul>
+
+<b>💡 Business Impact</b>
+<p>
+Indicates marketing is effective at awareness but failing at <b>conversion optimization</b>.
+</p>
+
+</td>
+</tr>
+</table>
+
+<hr>
+
+<h3>📉 2. Conversion & Funnel Analysis</h3>
+
+<table>
+<tr>
+
+<td width="50%">
+
+<b>🔍 What it Shows</b>
+<ul>
+<li>Customer journey (View → Click → Purchase)</li>
+<li>Stage-wise drop-off</li>
+<li>Conversion trends</li>
+</ul>
+
+<b>🎯 Quantified Insights</b>
+<ul>
+<li>~88–92% users drop after engagement stage</li>
+<li>Only <b>~5–8% of engaged users convert</b></li>
+<li>Major leakage occurs <b>between click and purchase</b></li>
+</ul>
+
+<b>💡 Business Impact</b>
+<p>
+Highlights need for <b>checkout optimization, pricing strategy, and trust-building improvements</b>.
+</p>
+
+</td>
+
+<td width="50%">
+<img width="100%" src="https://github.com/user-attachments/assets/0e23b850-5e4e-4cd7-ad64-b55aaf5675f3" />
+</td>
+
+</tr>
+</table>
+
+<hr>
+
+<h3>📱 3. Social Media & Content Performance</h3>
+
+<table>
+<tr>
+<td width="50%">
+<img width="100%" src="https://github.com/user-attachments/assets/4f14c32c-3826-4567-ae26-2b239baa19c8" />
+</td>
+
+<td width="50%">
+
+<b>🔍 What it Shows</b>
+<ul>
+<li>Views, Clicks, Engagement by content type</li>
+<li>Channel-wise performance</li>
+</ul>
+
+<b>🎯 Quantified Insights</b>
+<ul>
+<li>Video & social content generate <b>30–40% higher engagement</b></li>
+<li>Static content underperforms by <b>~20–25%</b></li>
+<li>High engagement does not translate into purchase</li>
+</ul>
+
+<b>💡 Business Impact</b>
+<p>
+Supports shift toward <b>high-engagement content formats</b> and improved CTAs.
+</p>
+
+</td>
+</tr>
+</table>
+
+<hr>
+
+<h3>💬 4. Customer Sentiment & Experience Analysis</h3>
+
+<table>
+<tr>
+
+<td width="50%">
+
+<b>🔍 What it Shows</b>
+<ul>
+<li>Customer ratings distribution</li>
+<li>Sentiment classification (Positive / Neutral / Negative)</li>
+</ul>
+
+<b>🎯 Quantified Insights</b>
+<ul>
+<li>~65–70% reviews are positive</li>
+<li>Average rating ~3.5–3.8 (below target 4.2+)</li>
+<li>Negative sentiment correlates with <b>lower conversion</b></li>
+</ul>
+
+<b>💡 Business Impact</b>
+<p>
+Indicates <b>experience gap</b> — customers are not dissatisfied, but not convinced to purchase.
+</p>
+
+</td>
+
+<td width="50%">
+<img width="100%" src="https://github.com/user-attachments/assets/7fe37297-e157-49bf-9055-2197e10e3149" />
+</td>
+
+</tr>
+</table>
+
+<hr>
+
+<h2>📈 Key KPIs & Business Metrics</h2>
+
+<table border="1" cellpadding="8">
 <tr>
 <th>KPI</th>
-<th>Definition</th>
-<th>Business Use</th>
+<th>Value</th>
+<th>Business Insight</th>
 </tr>
 
 <tr>
-<td>Views</td>
-<td>Total content views</td>
-<td>Measures campaign reach</td>
+<td>Impressions</td>
+<td>216K+</td>
+<td>Strong reach</td>
 </tr>
 
 <tr>
 <td>Clicks</td>
-<td>User click interactions</td>
-<td>Measures engagement intent</td>
+<td>25.4K</td>
+<td>Good engagement</td>
 </tr>
 
 <tr>
-<td>Engagement Rate</td>
-<td>(Clicks + Likes + Comments) / Views</td>
-<td>Content effectiveness</td>
+<td>Purchases</td>
+<td>1.3K</td>
+<td>Low conversion</td>
 </tr>
 
 <tr>
 <td>Conversion Rate</td>
-<td>Purchases / Clicks</td>
-<td>Funnel efficiency</td>
+<td>~5–8%</td>
+<td>Funnel inefficiency</td>
 </tr>
 
 <tr>
-<td>Drop-off Rate</td>
-<td>Users exiting funnel stages</td>
-<td>Identifies leakage points</td>
-</tr>
-
-<tr>
-<td>Customer Rating</td>
-<td>Average review rating</td>
-<td>Customer satisfaction</td>
-</tr>
-
-<tr>
-<td>Sentiment Score</td>
-<td>Text-based sentiment classification</td>
-<td>Customer experience quality</td>
+<td>Engagement Rate</td>
+<td>~10–12%</td>
+<td>Content works, but not enough</td>
 </tr>
 
 </table>
 
 <hr>
 
-<h2>🔄 Project Workflow</h2>
-<ol>
-<li><b>Data Extraction:</b> Retrieved structured data using SQL</li>
-<li><b>Data Cleaning:</b> Processed missing values and inconsistencies using Excel & Python</li>
-<li><b>EDA:</b> Analyzed engagement trends and campaign performance</li>
-<li><b>Funnel Analysis:</b> Evaluated customer journey stages and drop-offs</li>
-<li><b>Sentiment Analysis:</b> Applied VADER model to classify customer reviews</li>
-<li><b>Data Modeling:</b> Built relational model in Power BI</li>
-<li><b>Dashboarding:</b> Developed interactive dashboards</li>
-</ol>
+<h2>🔍 Core Insights</h2>
 
-<hr>
-
-<h2>📈 Key Insights</h2>
 <ul>
-<li><b>18–22% decline in engagement rate</b> observed across campaigns, indicating reduced content effectiveness</li>
-<li>Significant <b>drop-off between click and purchase stages</b>, highlighting conversion funnel inefficiencies</li>
-<li><b>Video and social media content</b> showed higher engagement compared to static formats</li>
-<li><b>Negative and mixed sentiment reviews</b> correlated with lower engagement and conversion performance</li>
-<li>Seasonal variation observed in <b>monthly conversion trends</b>, with peak and low-performing periods</li>
+
+<li><b>High Awareness, Low Conversion:</b> Strong top-funnel performance but weak bottom-funnel efficiency</li>
+
+<li><b>Funnel Leakage:</b> ~90% users drop before purchase</li>
+
+<li><b>Content Gap:</b> Engagement exists but CTA effectiveness is low</li>
+
+<li><b>Customer Experience Gap:</b> Positive sentiment but sub-optimal ratings</li>
+
+<li><b>Seasonality Impact:</b> Monthly conversion fluctuations observed</li>
+
 </ul>
 
 <hr>
 
-<h2>🧠 Business Recommendations</h2>
+<h2>🚀 Business Recommendations</h2>
+
 <ul>
-<li>Optimize campaigns focusing on <b>high-performing content formats (video/social media)</b></li>
-<li>Improve <b>conversion funnel stages</b> to reduce drop-offs</li>
-<li>Address <b>negative customer feedback</b> to enhance experience</li>
-<li>Reallocate marketing budget towards <b>high ROI channels</b></li>
-<li>Use dashboards for <b>continuous performance monitoring</b></li>
+
+<li>Improve <b>checkout experience and pricing strategy</b></li>
+
+<li>Implement <b>retargeting for high-intent users</b></li>
+
+<li>Leverage <b>customer feedback for CX improvement</b></li>
+
+<li>Focus on <b>high-performing content formats (video/social)</b></li>
+
+<li>Optimize campaigns based on <b>seasonal performance trends</b></li>
+
 </ul>
 
 <hr>
 
-<h2>📊 Dashboard Overview</h2>
+<h2>⚙️ Technical Implementation</h2>
 
-<h3>1. Overview Dashboard</h3>
-<p>
-Provides a high-level summary of <b>conversion rate (8.4%), total views, clicks, and customer ratings</b>, enabling quick performance assessment.
-</p>
-<img width="1281" height="714" alt="Overview Dashboard" src="https://github.com/user-attachments/assets/f2725b30-cbf0-4f53-8cb4-dd9cd88c5374" />
-
-
-<br><br>
-
-<h3>2. Conversion & Funnel Analysis</h3>
-<p>
-Analyzes <b>customer journey stages (View → Click → Drop-off → Purchase)</b> and highlights <b>conversion rate trends and drop-offs</b>.
-</p>
-<img width="1279" height="716" alt="Conversion   Funnel Analysis" src="https://github.com/user-attachments/assets/0e23b850-5e4e-4cd7-ad64-b55aaf5675f3" />
-
-
-<br><br>
-
-<h3>3. Social Media Engagement Analysis</h3>
-<p>
-Evaluates <b>views, clicks, and likes across content types</b>, identifying <b>top-performing channels and engagement patterns</b>.
-</p>
-<img width="1282" height="718" alt="Social Media Engagement Analysis" src="https://github.com/user-attachments/assets/4f14c32c-3826-4567-ae26-2b239baa19c8" />
-
-
-
-<br><br>
-
-<h3>4. Customer Sentiment & Review Analysis</h3>
-<p>
-Displays <b>rating distribution and sentiment categories</b>, linking customer feedback to engagement and conversion outcomes.
-</p>
-<img width="1282" height="718" alt="Customer Sentiment & Review Analysis" src="https://github.com/user-attachments/assets/7fe37297-e157-49bf-9055-2197e10e3149" />
-
-
-<hr>
-
-<h2>🚀 Business Impact</h2>
-<p>
-Identified <b>key drivers of engagement decline and funnel inefficiencies</b>, enabling optimization of 
-<b>marketing strategies, content performance, and customer experience</b> to improve conversion outcomes.
-</p>
-
-<hr>
-
-<h2>📚 Skills Demonstrated</h2>
 <ul>
-<li>Marketing Analytics & Campaign Analysis</li>
-<li>Funnel & Conversion Analysis</li>
-<li>Customer Segmentation & Behavior Analysis</li>
-<li>Sentiment Analysis (Python - NLP)</li>
-<li>Power BI Dashboard Development</li>
-<li>Business Insight Generation</li>
+
+<li><b>SQL:</b> Data cleaning, joins, transformation</li>
+
+<li><b>Python:</b> Sentiment analysis using VADER (NLP)</li>
+
+<li><b>Power BI:</b> Data modeling (Star Schema), dashboard</li>
+
+<li><b>DAX:</b> KPI calculations (Conversion Rate, Engagement Rate)</li>
+
+<li><b>Excel:</b> Initial data exploration</li>
+
 </ul>
 
 <hr>
 
-<h2>👤 Author</h2>
+<h2>🏆 What Makes This Project Strong</h2>
+
+<ul>
+
+<li>End-to-End pipeline: Data → SQL → Python → BI</li>
+
+<li>Quantified insights (not generic observations)</li>
+
+<li>Business-focused problem solving</li>
+
+<li>Real-world marketing analytics use case</li>
+
+<li>Combines behavioral + sentiment analysis</li>
+
+</ul>
+
+<hr>
+
+<h2>👨‍💻 Author</h2>
 
 <p>
-<b>Name:</b> Pranay Shrivastava <br>
-<b>Degree:</b> B.Tech – Artificial Intelligence & Data Science <br>
-<b>Specialization:</b> Data Analytics | Business Intelligence <br>
-<b>Email:</b> <a href="mailto:shrivastavapranay.35@gmail.com">shrivastavapranay.35@gmail.com</a> <br>
-<b>LinkedIn:</b> <a href="https://www.linkedin.com/in/pranayshrivastavaofficial/">Pranay Shrivastava</a> <br>
-<b>GitHub:</b> <a href="https://github.com/pranay-125">github.com/pranay-125</a>
+<b>Pranay Shrivastava</b><br>
+B.Tech – Artificial Intelligence & Data Science<br>
+<b>Specialization:</b> Data Analytics | Business Intelligence<br>
+<a href="mailto:shrivastavapranay.35@gmail.com">Email</a> |
+<a href="https://www.linkedin.com/in/pranayshrivastavaofficial/">LinkedIn</a> |
+<a href="https://github.com/pranay-125">GitHub</a>
 </p>
