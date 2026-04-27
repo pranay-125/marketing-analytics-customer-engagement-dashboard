@@ -1,14 +1,14 @@
 <h1 align="center">📊 Customer Engagement & Marketing Channel Performance Analysis</h1>
 
 <p align="center">
-<b>Marketing Analytics Dashboard | Funnel Optimization | Customer Experience Analysis</b><br>
-SQL • Python • Power BI • DAX • Data Modeling
+<b>End-to-End Marketing Analytics Project</b><br>
+Customer Engagement, Funnel Optimization & Customer Experience Analysis
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Domain-Marketing%20Analytics-blue" />
-<img src="https://img.shields.io/badge/Tools-SQL%20%7C%20Python%20%7C%20PowerBI-orange" />
-<img src="https://img.shields.io/badge/Focus-Funnel%20%26%20CX%20Optimization-green" />
+<img src="https://img.shields.io/badge/Tools-SQL%20%7C%20Python%20%7C%20PowerBI%20%7C%20Excel-orange" />
+<img src="https://img.shields.io/badge/Focus-Customer%20Engagement%20%26%20Funnel%20Optimization-green" />
 </p>
 
 <hr>
