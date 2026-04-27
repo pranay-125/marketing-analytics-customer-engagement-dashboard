@@ -199,8 +199,12 @@ Identified <b>key drivers of engagement decline and funnel inefficiencies</b>, e
 <hr>
 
 <h2>👤 Author</h2>
+
 <p>
-<b>Pranay Shrivastava</b><br>
-B.Tech – Artificial Intelligence & Data Science<br>
-Aspiring Data Analyst
+<b>Name:</b> Pranay Shrivastava <br>
+<b>Degree:</b> B.Tech – Artificial Intelligence & Data Science <br>
+<b>Specialization:</b> Data Analytics | Business Intelligence <br>
+<b>Email:</b> <a href="mailto:shrivastavapranay.35@gmail.com">shrivastavapranay.35@gmail.com</a> <br>
+<b>LinkedIn:</b> <a href="https://www.linkedin.com/in/pranayshrivastavaofficial/">Pranay Shrivastava</a> <br>
+<b>GitHub:</b> <a href="https://github.com/pranay-125">github.com/pranay-125</a>
 </p>
