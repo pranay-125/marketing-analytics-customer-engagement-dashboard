@@ -145,7 +145,7 @@ Analyzed <b>38K+ customer interaction records</b> integrating multiple datasets:
 <p>
 Provides a high-level summary of <b>conversion rate (8.4%), total views, clicks, and customer ratings</b>, enabling quick performance assessment.
 </p>
-<img width="1920" height="992" alt="Screenshot 2026-04-15 175710" src="https://github.com/user-attachments/assets/6cb0c241-5c25-4b77-95da-d4ce79273a10" />
+<img width="1281" height="714" alt="Overview Dashboard" src="https://github.com/user-attachments/assets/f2725b30-cbf0-4f53-8cb4-dd9cd88c5374" />
 
 
 <br><br>
@@ -154,7 +154,7 @@ Provides a high-level summary of <b>conversion rate (8.4%), total views, clicks,
 <p>
 Analyzes <b>customer journey stages (View → Click → Drop-off → Purchase)</b> and highlights <b>conversion rate trends and drop-offs</b>.
 </p>
-<img width="1920" height="990" alt="Screenshot 2026-04-15 175727" src="https://github.com/user-attachments/assets/0297c31b-faa7-48e2-9c4e-f237a844dd29" />
+<img width="1279" height="716" alt="Conversion   Funnel Analysis" src="https://github.com/user-attachments/assets/0e23b850-5e4e-4cd7-ad64-b55aaf5675f3" />
 
 
 <br><br>
@@ -163,7 +163,8 @@ Analyzes <b>customer journey stages (View → Click → Drop-off → Purchase)</
 <p>
 Evaluates <b>views, clicks, and likes across content types</b>, identifying <b>top-performing channels and engagement patterns</b>.
 </p>
-<img width="1920" height="995" alt="Screenshot 2026-04-15 175735" src="https://github.com/user-attachments/assets/8ae6c973-e5f3-477b-a0b0-88cd0b790483" />
+<img width="1282" height="718" alt="Social Media Engagement Analysis" src="https://github.com/user-attachments/assets/4f14c32c-3826-4567-ae26-2b239baa19c8" />
+
 
 
 <br><br>
@@ -172,7 +173,7 @@ Evaluates <b>views, clicks, and likes across content types</b>, identifying <b>t
 <p>
 Displays <b>rating distribution and sentiment categories</b>, linking customer feedback to engagement and conversion outcomes.
 </p>
-<img width="1920" height="993" alt="Screenshot 2026-04-15 175751" src="https://github.com/user-attachments/assets/000a6a95-974e-4ef2-9727-1f0fcb6cf82c" />
+<img width="1282" height="718" alt="Customer Sentiment & Review Analysis" src="https://github.com/user-attachments/assets/7fe37297-e157-49bf-9055-2197e10e3149" />
 
 
 <hr>
