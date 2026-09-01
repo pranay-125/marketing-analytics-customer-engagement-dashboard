@@ -288,24 +288,6 @@ Indicates <b>experience gap</b> — customers are not dissatisfied, but not conv
 
 <hr>
 
-<h2>🏆 What Makes This Project Strong</h2>
-
-<ul>
-
-<li>End-to-End pipeline: Data → SQL → Python → BI</li>
-
-<li>Quantified insights (not generic observations)</li>
-
-<li>Business-focused problem solving</li>
-
-<li>Real-world marketing analytics use case</li>
-
-<li>Combines behavioral + sentiment analysis</li>
-
-</ul>
-
-<hr>
-
 <h2>👨‍💻 Author</h2>
 
 <p>
